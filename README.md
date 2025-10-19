@@ -69,6 +69,7 @@ rejection analysis, employee performance, and machine efficiency to support data
 
 - **Key Observation:**  
   Despite strong production volume (~60M units), rejection reached **0.49M**, leading to a **0.82% wastage rate**, indicating room for process improvement.
+<img width="1294" height="730" alt="Screenshot 2025-10-19 110418" src="https://github.com/user-attachments/assets/bcd914a2-5eb7-420d-b268-03368a9c0ecc" />
 
 ---
 
